@@ -1,4 +1,5 @@
 # Plot 1
+# Execute etl.R to download and clean data
 
 power <- read.csv("household_power_consumption_2007-02-01-02.csv")
 
